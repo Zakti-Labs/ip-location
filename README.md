@@ -2,7 +2,7 @@
 Get registered location of IP
 
 # Usage
-You must have [Python](https://www.python.org/downloads/) installed. Download the Python script from this repository and save it to an accessible location. 
+You must have [Python 3](https://www.python.org/downloads/) installed. Download the Python script from this repository and save it to an accessible location. 
 
 In the same directory, create a file `ips.txt` with one IP per line. **DO NOT LEAVE EMPTY LINES.**
 
